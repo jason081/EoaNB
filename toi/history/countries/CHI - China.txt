@@ -54,10 +54,10 @@
         popularity = 0
       }
       centrism = {
-        popularity = 0
+        popularity = 50
       }
       traditional_conservatism = {
-        popularity = 0
+        popularity = 50
       }
       radical_democracy = {
         popularity = 0
@@ -66,7 +66,7 @@
         popularity = 0
       }
       autocracy = {
-        popularity = 100
+        popularity = 0
       }
       fundamentalism = {
         popularity = 0
